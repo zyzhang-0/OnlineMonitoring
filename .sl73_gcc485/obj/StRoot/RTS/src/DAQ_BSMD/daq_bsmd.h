@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_BSMD/daq_bsmd.h

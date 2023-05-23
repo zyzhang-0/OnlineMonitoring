@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_TRG/trgReader32.cxx

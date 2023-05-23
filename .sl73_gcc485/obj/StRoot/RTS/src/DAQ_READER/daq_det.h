@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_READER/daq_det.h

@@ -1,0 +1,53 @@
+/README.Tonko/1.1/Wed Feb 27 16:22:50 2008//
+/README.jeff/1.1/Wed Feb 27 16:22:50 2008//
+/adcLogTable.h/1.1/Wed Feb 27 16:22:50 2008//
+/cmds.h/1.8/Fri Feb 22 18:05:22 2019//
+/daq100Decision.h/1.7/Wed Jan 23 17:52:06 2019//
+/daqModes.h/1.12/Sun Dec 22 02:18:19 2019//
+/em_nios.C/1.1/Wed Feb 27 16:22:51 2008//
+/em_nios.h/1.1/Wed Feb 27 16:22:51 2008//
+/ethLib.h/1.1/Wed Feb 27 16:22:51 2008//
+/evbMemMap.h/1.1/Wed Feb 27 16:22:51 2008//
+/evp.h/1.4/Mon Dec  6 15:53:20 2010//
+/fcfClass.hh/1.3/Wed Oct 11 15:55:07 2017//
+/iccp.h/1.14/Tue Sep  4 19:45:12 2018//
+/iccpHeader.h/1.2/Tue Sep  4 19:45:12 2018//
+/l1Algorithm.h/1.2/Fri Oct  7 17:30:45 2016//
+/myrinet.h/1.3/Wed Oct 11 15:55:07 2017//
+/pp2ppTypes.h/1.1/Wed Feb 27 16:22:53 2008//
+/rcfEventList.h/1.1/Wed Feb 27 16:22:53 2008//
+/rts.h/1.12/Mon Jul  9 17:03:41 2018//
+/rtsCmds.h/1.1/Wed Feb 27 16:22:54 2008//
+/rtsComLib.h/1.1/Wed Feb 27 16:22:54 2008//
+/rtsErrMsg.h/1.2/Wed Oct  3 18:50:55 2012//
+/rtsMonitor.h/1.30/Wed Oct 10 11:24:47 2018//
+/rtsScaler.h/1.1/Wed Feb 27 16:22:55 2008//
+/segments.h/1.2/Thu May 15 20:16:20 2008//
+/status.h/1.1/Wed Feb 27 16:22:55 2008//
+/tasks.h/1.11/Fri Dec 20 16:14:55 2013//
+/trg2rts.h/1.1/Wed Feb 27 16:22:55 2008//
+/trgQTMasks.h/1.2/Thu May 12 21:04:08 2016//
+D/DAQ1000////
+D/DB////
+D/FTP////
+D/HLT////
+D/I386////
+D/L3////
+D/MVME////
+D/RC////
+D/RORC////
+D/SECTOR////
+D/SUNRT////
+D/SVT////
+D/TPC////
+D/TPX////
+D/TRG////
+D/UNIX////
+/RC_Config.h/1.67/Tue Oct  5 18:23:54 2021//
+/iccp2k.h/1.30/Tue Oct  5 18:23:54 2021//
+/platform.h/1.4/Tue Oct  5 18:23:54 2021//
+/prepareGbPayload.h/1.45/Tue Oct  5 18:23:54 2021//
+/rc.h/1.4/Tue Oct  5 18:23:54 2021//
+/rtsLog.h/1.18/Tue Oct  5 18:23:54 2021//
+/rtsSystems.h/1.83/Tue Oct  5 18:23:54 2021//
+/daqFormats.h/1.13/Tue Oct 26 18:20:32 2021//

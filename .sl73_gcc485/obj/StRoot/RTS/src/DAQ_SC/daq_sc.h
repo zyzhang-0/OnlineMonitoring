@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_SC/daq_sc.h

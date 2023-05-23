@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_RIC/ric_reader.cxx

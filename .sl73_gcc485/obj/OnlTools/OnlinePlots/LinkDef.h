@@ -1,0 +1,39 @@
+/* This was generated for version 'SL21a' */
+#pragma link off all globals;
+#pragma link off all classes;
+#pragma link off all functions;
+#ifdef __CINT__
+#pragma link C++ class BESHistogramGroup+;
+#pragma link C++ class FMSHistogramGroup+;
+#pragma link C++ class GroupStatisticsHistogramGroup+;
+#pragma link C++ class L2UpsilonCountsHistogramGroup+;
+#pragma link C++ class L2UpsilonMassHistogramGroup+;
+#pragma link C++ class L2UpsilonTowersHistogramGroup+;
+#pragma link C++ class LaserDriftTimeHistogramGroup+;
+#pragma link C++ class LaserTpcPadChargeHistogramGroup+;
+#pragma link C++ class MTDhitsHistogramGroup+;
+#pragma link C++ class MTDtriggerinfoHistogramGroup+;
+#pragma link C++ class SVTAnodeHybridHistogramGroup+;
+#pragma link C++ class SVTAnodeSumHistogramGroup+;
+#pragma link C++ class SsdPedestalHistogramGroup+;
+#pragma link C++ class TOFL0HistogramGroup+;
+#pragma link C++ class TOFL1multHistogramGroup+;
+#pragma link C++ class TOFcheckHistogramGroup+;
+#pragma link C++ class TOFtrayHistogramGroup+;
+#pragma link C++ class TOFupvpdHistogramGroup+;
+#pragma link C++ class UPCHistogramCtbGroup+;
+#pragma link C++ class UPCHistogramGroup+;
+#pragma link C++ class UPCHistogramZdcGroup+;
+#pragma link C++ class VPDHiHistogramGroup+;
+#pragma link C++ class VPDHistogramGroup+;
+#pragma link C++ class pp2ppHistogramGroup+;
+#pragma link C++ class DGHelp+;
+#pragma link C++ class EvpServer+;
+#pragma link C++ class HistogramGroup+;
+#pragma link C++ class PGMessage+;
+#pragma link C++ class RunStatus+;
+#pragma link C++ class ServerGui+;
+#pragma link C++ class ServerStatus+;
+#pragma link C++ class endOfRunActionMain+;
+#pragma link C++ class evpServerMain+;
+#endif

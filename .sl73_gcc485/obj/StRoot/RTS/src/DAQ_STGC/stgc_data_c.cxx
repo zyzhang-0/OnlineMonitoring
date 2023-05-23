@@ -1,0 +1,1 @@
+../../../../../../StRoot/RTS/src/DAQ_STGC/stgc_data_c.cxx
